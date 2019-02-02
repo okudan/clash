@@ -6,8 +6,8 @@
 
   - Başlamak için bir **GitHub** hesabı açın.
 	- ***[GitHub](https://github.com)***
-  - [Me](https://github.com/okudan/me) adresinde sağ üstte bulunan “Fork” butonuna tıklayın.
-  - Ardından biraz aşağıda bulunan “Clone or download” butonuna tıklayarak projeyi zip dosyası olarak bilgisayarınıza indirin.
+  - [Me](https://github.com/okudan/me) adresinde sağ üstte bulunan **“Fork”** butonuna tıklayın.
+  - Ardından biraz aşağıda bulunan **“Clone or download”** butonuna tıklayarak projeyi zip dosyası olarak bilgisayarınıza indirin.
   - Bir text editor programı indirin.
 	- ***[Notepad++](https://notepad-plus-plus.org/)***
 	- ***[TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)*** (Mac)
@@ -25,5 +25,5 @@
 
   - GitHub’da kendi kullanıcı adınızın olduğu repo’ya gidin
 	- ***github.com/kullanıcıadınız/me***
-  - Yukarıdaki **“Settings”** butonuyla ayarları açıp **GitHub pages** kısmında **“master branch”** ı seçerek **“Save”** butonuna basın. “Your site is published at https://okudan.github.io/me/ ” şeklinde bir yazı çıkacak, yazıda sizin kullanıcı adınız olacak. Web sitemiz hazır! Bu linki https://okudan.github.io/me/ adresindeki mail adresine mail atın.
+  - Yukarıdaki **“Settings”** butonuyla ayarları açıp **GitHub pages** kısmında **“master branch”** ı seçerek **“Save”** butonuna basın. ``` “Your site is published at https://okudan.github.io/me/ ” ``` şeklinde bir yazı çıkacak, yazıda sizin kullanıcı adınız olacak. Web sitemiz hazır! Bu linki https://okudan.github.io/me/ adresindeki mail adresine mail atın.
   - Ekstra olarak sitenizde kar yağdırmaya çalışabilirsiniz!
