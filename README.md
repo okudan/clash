@@ -6,7 +6,7 @@
 
   - Başlamak için bir **GitHub** hesabı açın.
 	- ***[GitHub](https://github.com)***
-  - [me](https://github.com/okudan/me) adresinde sağ üstte bulunan “Fork” butonuna tıklayın.
+  - [Me](https://github.com/okudan/me) adresinde sağ üstte bulunan “Fork” butonuna tıklayın.
   - Ardından biraz aşağıda bulunan “Clone or download” butonuna tıklayarak projeyi zip dosyası olarak bilgisayarınıza indirin.
   - Bir text editor programı indirin.
 	- ***[Notepad++](https://notepad-plus-plus.org/)***
