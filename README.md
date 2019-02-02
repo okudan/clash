@@ -10,7 +10,7 @@
   - Ardından biraz aşağıda bulunan “Clone or download” butonuna tıklayarak projeyi zip dosyası olarak bilgisayarınıza indirin.
   - Bir text editor programı indirin.
 	- ***[Notepad++](https://notepad-plus-plus.org/)***
-	- ***[TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)*** **Mac**
+	- ***[TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)*** **- Mac**
 	
   - [Okudan](https://okudan.github.io/me/) sayfasına girerek sağ tıklayın ve sayfa kaynağını görüntüleyin. Dersin sonunda buradakine benzer bir sayfa oluşturmanız gerekiyor. Bir sonraki adımda buradaki kodların sizin için halihazırda kopyalanmış olanını kullanacaksınız; ancak ileride bu adımı yapmanız gerekirse kaynak kodun hepsini kopyalayıp bir txt dosyasına yapıştırmanız yeterli olacaktır.
   - İndirdiğiniz zip dosyasını bilgisayarınıza çıkarın. İçerisindeki **index.html** dosyasını sağ tıklayarak indirdiğiniz programla açın.
@@ -20,10 +20,10 @@
   - Bilgisayarınızda istediğiniz bir yerde GitHub dosyalarını tutacağınız bir klasör oluşturun. Masaüstü veya ana dizini kullanabilirsiniz.
   - GitHub masaüstü uygulamasını indirin
 	- ***[GitHub Desktop](https://desktop.github.com)***
-  - Programa kullanıcı adı ve şifrenizle giriş yapın. GitHub’ı better yapmayın. Karşınıza çıkan ekranda **“Clone a Repository”** butonuna tıklayın, /me'yi seçin. Aşağıda da daha önce oluşturduğunuz klasörü bulup seçin. Clone tuşuna basın.
+  - Programa kullanıcı adı ve şifrenizle giriş yapın. GitHub’ı better yapmayın. Karşınıza çıkan ekranda **“Clone a Repository”** butonuna tıklayın ve /me'yi seçin. Aşağıda da daha önce oluşturduğunuz klasörü bulup seçin. Clone tuşuna basın.
   - Değişiklikleri yaptığınız dosyaları oluşturduğunuz dosyada /me dizinine kopyalayın. **“Commit to master”** ardından **“Push origin”** butonlarına tıklayın.
 
   - GitHub’da kendi kullanıcı adınızın olduğu repo’ya gidin
 	- ***github.com/kullanıcıadınız/me***
-  - Yukarıdaki **“Settings”** butonuyla ayarları açıp **GitHub pages** kısmında **“master branch”** ı seçerek **“Save”** butonuna basın. “Your site is published at https://okudan.github.io/me/” şeklinde bir yazı çıkacak, yazıda sizin kullanıcı adınız olacak. Web sitemiz hazır. Bu linki https://okudan.github.io/me/ adresindeki mail adresine mail atın.
+  - Yukarıdaki **“Settings”** butonuyla ayarları açıp **GitHub pages** kısmında **“master branch”** ı seçerek **“Save”** butonuna basın. “Your site is published at https://okudan.github.io/me/ ” şeklinde bir yazı çıkacak, yazıda sizin kullanıcı adınız olacak. Web sitemiz hazır! Bu linki https://okudan.github.io/me/ adresindeki mail adresine mail atın.
   - Ekstra olarak sitenizde kar yağdırmaya çalışabilirsiniz!
