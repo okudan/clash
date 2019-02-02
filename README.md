@@ -10,7 +10,7 @@
   - Ardından biraz aşağıda bulunan “Clone or download” butonuna tıklayarak projeyi zip dosyası olarak bilgisayarınıza indirin.
   - Bir text editor programı indirin.
 	- ***[Notepad++](https://notepad-plus-plus.org/)***
-	- ***[TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)*** **- Mac**
+	- ***[TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)*** (Mac)
 	
   - [Okudan](https://okudan.github.io/me/) sayfasına girerek sağ tıklayın ve sayfa kaynağını görüntüleyin. Dersin sonunda buradakine benzer bir sayfa oluşturmanız gerekiyor. Bir sonraki adımda buradaki kodların sizin için halihazırda kopyalanmış olanını kullanacaksınız; ancak ileride bu adımı yapmanız gerekirse kaynak kodun hepsini kopyalayıp bir txt dosyasına yapıştırmanız yeterli olacaktır.
   - İndirdiğiniz zip dosyasını bilgisayarınıza çıkarın. İçerisindeki **index.html** dosyasını sağ tıklayarak indirdiğiniz programla açın.
